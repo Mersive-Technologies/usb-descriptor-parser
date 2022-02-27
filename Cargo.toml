@@ -14,5 +14,5 @@ structure = "0.1"
 log = { version = "0.4", features = ["max_level_debug", "release_max_level_info"] }
 pretty_env_logger = "0.4.0"
 anyhow = "1.0"
-libusb1-sys = { version = "0.6.0", features = ["vendored"] }
+libusb1-sys = { version = "0.4.2", features = ["vendored"] }
 float_eq = "0.6.0"
