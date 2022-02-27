@@ -9,7 +9,6 @@ extern crate num_derive;
 #[macro_use]
 extern crate structure;
 
-mod descriptor_parser;
 mod uac_proto;
 mod usb_proto;
 mod uvc_proto;
